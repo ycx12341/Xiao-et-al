@@ -1,9 +1,9 @@
 ## ABC-BCD ##
 
-This contains all the synthetic data generated in the attempt of applying the ABC-BCD scheme described in Xiao et al.
+## This contains all the synthetic data generated in the attempt of applying the ABC-BCD scheme described in Xiao et al. ##
 
-Some key files in each folder (Except “Consistency analysis” and “Formatted code”):
-mean_var_obs.txt: Means and variances of the 240 reference time series.
+## Some key files in each folder (Except “Consistency analysis” and “Formatted code”): ##
+##mean_var_obs.txt:##  Means and variances of the 240 reference time series.
 
 Round 1 parameters 10000 ecm.txt: Initial parameters, all parameter values are sampled from corresponding initial distributions using "runif" command in R. (See Prior.R)
 
